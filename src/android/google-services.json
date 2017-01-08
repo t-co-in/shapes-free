@@ -7,6 +7,7 @@
   },
   "client": [
     
+  	
     {
       "client_info": {
         "mobilesdk_app_id": "1:1080274052897:android:c9425ec0cf5a9a62",
@@ -16,11 +17,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "1080274052897-ktka46gdg738iq2j0ml00o5vra02h4ge.apps.googleusercontent.com",
+          "client_id": "1080274052897-7n6uqen8gslagj35qrfrlm3cgmkrj7h5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.edutainmentapp.shapes.colors.free",
-            "certificate_hash": "E760B2C8A663C0E0D8A079D32437F2FB3840BCA2"
+            "certificate_hash": "3848946E9FA58B9B8950443CAE72797B00AA5E5F"
           }
         },
         {
@@ -39,15 +40,21 @@
         },
         "appinvite_service": {
           "status": 2,
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              
+            },
+            {
+              "client_id": "1080274052897-uhr10ao40m29qjd29h1t9oevc9knau47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
         }
       }
-    },
-    
-   
+    }
   ],
   "configuration_version": "1"
 }
